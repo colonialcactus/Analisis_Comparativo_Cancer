@@ -2,26 +2,22 @@
 
 ## Descripción
 
-Este proyecto tiene como finalidad comparar genes asociados con el cáncer entre humanos y diferentes especies de primates para identificar similitudes, diferencias y regiones conservadas desde una perspectiva de la bioinformática.
+Este proyecto tiene como finalidad comparar cuatro genes asociados con el cáncer en humanos para identificar similitudes, diferencias y regiones conservadas desde una perspectiva de la bioinformática.
 
 ## Propósito
 
-Analizar secuencias genéticas de genes relacionados con el desarrollo del cáncer en distintas especies de primates para estudiar su conservación evolutiva y las posibles diferencias genéticas existentes.
+Analizar secuencias genéticas de genes relacionados con el desarrollo del cáncer en humanos para estudiar su conservación evolutiva y las posibles diferencias genéticas existentes.
 
 ## Objetivos
 
-- Comparar genes asociados con el cáncer entre diferentes especies.
+- Comparar cuatro genes asociados con el cáncer.
 - Identificar regiones conservadas en las secuencias.
 - Analizar el porcentaje de similitud genética.
-- Explorar las relaciones evolutivas entre las especies.
 - Generar resultados que puedan visualizarse mediante gráficos o árboles filogenéticos.
 
 ## Genes de interés
 
 - TP53
-- BRCA1
-- BRCA2
-- EGFR
 - KRAS
 - PTEN
 - APC
@@ -29,10 +25,7 @@ Analizar secuencias genéticas de genes relacionados con el desarrollo del cánc
 ## Especies analizadas
 
 - Humano (*Homo sapiens*)
-- Chimpancé (*Pan troglodytes*)
-- Gorila (*Gorilla gorilla*)
-- Orangután (*Pongo abelii*)
-- Macaco rhesus (*Macaca mulatta*)
+
 
 ## Estructura del proyecto
 
