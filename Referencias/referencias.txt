@@ -6,3 +6,6 @@ cellular tumor antigen p53 isoform a [Homo sapiens] - Protein - NCBI. (2026). Ni
 2. Gen KRAS
 Homo sapiens KRas proto-oncogene,GTPase (KRAS), transcript variant a, -Nucleotide -NCBI. (2026). Nih Gov. https://www.ncbi.nlm.nih.gov/nuccore/NM_033360.4?report=fasta
 
+3. Gen BCRA 1 (Humano)
+- breast cancer type 1 susceptibility protein isoform 1 [Homo sapiens] - Protein - NCBI. (n.d.). https://www.ncbi.nlm.nih.gov/protein/NP_009225.1?report=fasta
+- BRCA1 BRCA1 DNA repair associated [Homo sapiens (human)] - Gene - NCBI. (n.d.). https://www.ncbi.nlm.nih.gov/gene/672#reference-sequences
