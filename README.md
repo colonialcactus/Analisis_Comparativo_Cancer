@@ -1,12 +1,12 @@
-# Análisis Comparativo de Genes Asociados al Cáncer en Humanos y el chimpancé Pan troglodytes.
+# Análisis Comparativo de Genes Asociados al Cáncer en Humanos y Diferentes Especies de Primates.
 
 ## Descripción
 
-Este proyecto tiene como finalidad comparar algunos genes asociados con el cáncer en humanos y el chimpancé Pan troglodytes para identificar similitudes, diferencias y regiones conservadas desde una perspectiva de la bioinformática.
+Este proyecto tiene como finalidad comparar algunos genes asociados con el cáncer en humanos y diferentes especies de primates para identificar similitudes, diferencias y regiones conservadas desde una perspectiva de la bioinformática.
 
 ## Propósito
 
-Analizar secuencias genéticas de algunos genes relacionados con el desarrollo del cáncer en humanos y el chimpancé Pan troglodytes para estudiar sus diferencias genéticas existentes.
+Analizar secuencias genéticas de algunos genes relacionados con el desarrollo del cáncer en humanos y diferentes especies de primates para estudiar sus diferencias genéticas existentes.
 
 ## Objetivos
 
@@ -18,6 +18,8 @@ Analizar secuencias genéticas de algunos genes relacionados con el desarrollo d
 ## Genes de interés
 
 - BCRA1
+- BCRA2
+- EGFR
 - TP53
 - KRAS
 - PTEN
@@ -27,6 +29,9 @@ Analizar secuencias genéticas de algunos genes relacionados con el desarrollo d
 
 - Humano (*Homo sapiens*)
 - Chimpancé (*Pan troglodytes*)
+- Gorila ((*Gorilla gorilla*)
+- Orangután (*Pongo pygmaeus*)
+- Macaco rhesus (*Macaca mulatta*) 
 
 
 ## Estructura del proyecto
