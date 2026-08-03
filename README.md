@@ -61,3 +61,5 @@ MIT License
 ## Autor
 Jorge Carlos Guzmán Silva
 Angelica Ibarra Silva
+Luis Alfonso Matias Esteban
+Isaac Rodriguez Salas
