@@ -17,6 +17,7 @@ Analizar secuencias genéticas de genes relacionados con el desarrollo del cánc
 
 ## Genes de interés
 
+- BCRA1
 - TP53
 - KRAS
 - PTEN
