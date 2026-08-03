@@ -1,4 +1,8 @@
 Bibliografía
 
-1. Gen p53. 
+1. Gen TP53. 
 cellular tumor antigen p53 isoform a [Homo sapiens] - Protein - NCBI. (2026). Nih.Gov. https://www.ncbi.nlm.nih.gov/protein/NP_000537.3?report=genbank&log
+
+2. Gen KRAS
+Homo sapiens KRas proto-oncogene,GTPase (KRAS), transcript variant a, -Nucleotide -NCBI. (2026). Nih Gov. https://www.ncbi.nlm.nih.gov/nuccore/NM_033360.4?report=fasta
+
