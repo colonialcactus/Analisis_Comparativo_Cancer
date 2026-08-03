@@ -1,12 +1,12 @@
-# Análisis Comparativo de Genes Asociados al Cáncer entre Humanos y Primates
+# Análisis Comparativo de Genes Asociados al Cáncer en Humanos.
 
 ## Descripción
 
-Este proyecto tiene como finalidad comparar cuatro genes asociados con el cáncer en humanos para identificar similitudes, diferencias y regiones conservadas desde una perspectiva de la bioinformática.
+Este proyecto tiene como finalidad comparar algunos genes asociados con el cáncer en humanos para identificar similitudes, diferencias y regiones conservadas desde una perspectiva de la bioinformática.
 
 ## Propósito
 
-Analizar secuencias genéticas de genes relacionados con el desarrollo del cáncer en humanos para estudiar su conservación evolutiva y las posibles diferencias genéticas existentes.
+Analizar secuencias genéticas de algunos genes relacionados con el desarrollo del cáncer en humanos para estudiar sus diferencias genéticas existentes.
 
 ## Objetivos
 
