@@ -66,3 +66,8 @@ MIT License
 ## Autor
 Jorge Carlos Guzmán Silva
 Angelica Ibarra Silva
+Luis Alfonso Matias Esteban
+Isaac Rodriguez Salas
+
+### Diagrama de Flujo del Proyecto
+![Diagrama_de_flujo](imagenes/Diagrama%20de%20Flujo%20Proyecto%201.jpeg)
