@@ -60,3 +60,4 @@ MIT License
 
 ## Autor
 Jorge Carlos Guzmán Silva
+Angelica Ibarra Silva
